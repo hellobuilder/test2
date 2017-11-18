@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FCN_via_Keras
 
 ## FCN
@@ -27,3 +28,7 @@ $ python train.py -i demo_imgs/2011_003255.jpg
 ## Caution
 
 Please use theano as backend  because this couldn't work on tensorflow backend. I'm trying debug now. I update this code if I get factor of that.
+=======
+# hellogit
+A test in github.
+>>>>>>> bbc277f7efb984cad831c8895797e8541c71565e
